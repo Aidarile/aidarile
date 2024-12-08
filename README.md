@@ -1,22 +1,23 @@
 
 
-<img src="https://i.ibb.co/4sMSFwq/bannergithub.png" alt="bannergithub" border="0">
+<img src="https://i.ibb.co/SXvQQv8/bannergithub.png" alt="bannergithub" style="display: block; margin: 0 auto; width: 100%;">
+
 
 # Sobre mí :
 
-👩‍💻 | Actualmente, soy una estudiante de Desarrollo de Aplicaciones Web.\
-🌱 | Di un cambio a mi vida para intentar hacerme un hueco en este sector que siempre me ha parecido fascinante.\
-😄 | Soy una persona con buenas habilidades comunicativas, resolutiva y que aprende rápido.\
-✨ | Y lo más importante: Adoro a los gatos!!
+👩🏻‍💻 | Actualmente, estudio el Ciclo Superior de Desarrollo de Aplicaciones Web.\
+🙃 | Di un cambio a mi vida para intentar hacerme un hueco en este sector que siempre me ha parecido fascinante.\
+🙋🏻‍♀️ | Soy una persona con buenas habilidades comunicativas, resolutiva y que aprende rápido.\
+😺 | Y lo más importante: Adoro a los gatos!!
+<br><br>
 
-<div align="center">
-<strong><h2>Tecnologías estudiadas:</h2></strong>
-  
-</div>
+# Tecnologías :
 
+🖥️ | Estas son algunas de las tecnologías que he practicado durante mis estudios:
+<br><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,cs,css,github,html,java,php,js,mongodb,mysql,nodejs,react,postman,symfony&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,cs,css,github,html,java,php,js,mongodb,mysql,nodejs,react,postman,docker,symfony&perline=8"/>
   </a>
 </p>
 
